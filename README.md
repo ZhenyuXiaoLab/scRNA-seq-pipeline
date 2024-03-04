@@ -1,2 +1,3 @@
-# Seurat_v4
-One of the most widely used tools in the field of single-cell analysis.
+**Single cell RNA-sequencing analysis pipeline**
+
+General analysis steps for our home-made scRNA-seq datasets.
